@@ -1,1 +1,1 @@
-# python-dashboard-mining
+# python-mining-key-metrics
