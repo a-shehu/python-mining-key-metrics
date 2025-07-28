@@ -59,6 +59,6 @@ Install dependencies via pip
 ```bash
 pip freeze > requirements.txt
 ```
-
+![Interactive Dashboard Preview](dashboard.PNG)
 
 
