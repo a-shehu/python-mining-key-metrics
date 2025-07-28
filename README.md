@@ -17,7 +17,7 @@ This project simulates Bitcoin mining metrics based on varying power consumption
 To serve the dashboard locally, open a terminal and run the following command:
 
 ```bash
-panel serve asic-data-interact.ipynb --port 5010 --show --port 5010 --show
+panel serve asic-data-interact.ipynb --port 5010 --show
 ```
 
 ## Model Structure
